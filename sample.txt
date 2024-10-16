@@ -1,0 +1,10 @@
+1 . What is List?
+2 . What is abstraction?
+3 . Create a blank dictionary and add 5 elements , find the total values?
+4 . Write the code of palindrome?
+5 . Swap two values?
+6 . What is variable?
+7 . create a function using return function?
+8 . Create a Empty List and Add values?
+9 . state the code of reduce function in lambda?
+10. What is Tuple?
